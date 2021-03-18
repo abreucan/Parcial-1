@@ -6,3 +6,5 @@ contestada en el PDF del examen
 
 
 **El diagrama de flujo se encuentra en el PDF.**
+
+En "projects" se encuentra el task-breakdown del programa
