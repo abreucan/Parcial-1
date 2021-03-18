@@ -2,6 +2,7 @@
 Parcial 1 (práctica) acerca del Banco XYZ que está desarrolando un software donde sus clientes puedan ver estados de cuenta.
 
 **¿Qué paradigma usé y por qué?**
+contestada en el PDF del examen
 
 
-**Los diagramas de flujo y UML están adjuntados en este repositorio.**
+**El diagrama de flujo se encuentra en el PDF.**
