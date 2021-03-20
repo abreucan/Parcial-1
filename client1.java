@@ -25,8 +25,4 @@ public class client1 {
         this.userpassword = userpassword;
 
     }
-    // Métodos especiales
-    public String registro() {
-        return this.username + this.userpassword;
-    }
 }
